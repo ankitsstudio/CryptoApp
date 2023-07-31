@@ -1,0 +1,11 @@
+que. 
+     what does chakraprovider used for
+ans. 
+    The ChakraProvider component is a key component in Chakra UI that enables the usage of Chakra UI's components, styles, and theming system throughout your React application. It sets up the Chakra UI context and makes the Chakra UI components available for use in the component tree beneath it.
+
+By wrapping your application or specific parts of your application with the ChakraProvider component, you gain access to various features and functionalities provided by Chakra UI. These include pre-built UI components like buttons, forms, modals, and more, as well as styling utilities, responsive design capabilities, and an intuitive theming system.
+
+The ChakraProvider also allows you to customize the default theme of Chakra UI or create your own custom theme, enabling you to match your application's visual style and branding
+
+que. 
+    
